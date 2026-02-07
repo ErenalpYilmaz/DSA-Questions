@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ErenalpYilmaz/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0520-detect-capital](https://github.com/ErenalpYilmaz/DSA-Questions/tree/master/0520-detect-capital) |
 ## Binary Search
 |  |
 | ------- |
